@@ -12,7 +12,11 @@ const config: Config = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        "portfolio-1": "url('/assets/image/portfolio-1.png')"
       },
+      colors: {
+        "blue-primary": "#165884"
+      }
     },
   },
   plugins: [],
